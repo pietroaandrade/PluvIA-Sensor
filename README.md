@@ -13,6 +13,15 @@ Este projeto implementa um sensor de monitoramento utilizando o ESP32. Ele mede 
 
 <h3 align="left">Pietro Brandalise De Andrade - RM560142</h3>
 
+###
+<h1 align="left">Link simulador do sensor Wokwi</h1>
+
+###
+
+<h3 align="left">[Projeto Wokwi](https://wokwi.com/projects/432954060001352705)</h3>
+
+###
+
 ## Funcionalidades
 
 *   **Medição do Nível da Água:** Lê dados analógicos de um sensor de nível da água.
