@@ -2,6 +2,17 @@
 
 Este projeto implementa um sensor de monitoramento utilizando o ESP32. Ele mede o nível da água usando um sensor analógico, calcula o risco de inundação, exibe as informações em uma tela LCD, fornece indicação visual de risco usando LEDs e soa um alarme com um buzzer para situações de alto risco. O sistema também publica os dados de monitoramento em um broker MQTT, utilizando do Dashboard no Node-Red para display destas informações.
 
+###
+<h1 align="left">Integrantes</h1>
+
+###
+
+<h3 align="left">Ícaro Henrique de Souza Calixto - RM560278</h3>
+
+###
+
+<h3 align="left">Pietro Brandalise De Andrade - RM560142</h3>
+
 ## Funcionalidades
 
 *   **Medição do Nível da Água:** Lê dados analógicos de um sensor de nível da água.
