@@ -74,7 +74,7 @@ Este projeto se integra com o Node-RED para visualização dos dados por meio da
 Bibliotecas necessárias Node-RED:
 
 *   `node-red-contrib-aedes` (MQTT Broker)
-*   `node-red-contrib-mqtt-broker` (Outro nó de MQTT Broker, escolha um com base nas suas necessidades)
+*   `node-red-contrib-mqtt-broker` (Outro nó de MQTT Broker)
 *   `node-red-dashboard`
 
 ![Node-RED Libraries](Dashboard/Node-Red_libraries.png)
