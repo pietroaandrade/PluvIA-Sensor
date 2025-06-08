@@ -21,6 +21,13 @@ Este projeto implementa um sensor de monitoramento utilizando o ESP32. Ele mede 
 <h3 align="left">[Projeto Wokwi](https://wokwi.com/projects/432954060001352705)</h3>
 
 ###
+<h1 align="left">Link vídeo da apresentação do sensor</h1>
+
+###
+
+<h3 align="left">[Vídeo youtube]([https://wokwi.com/projects/432954060001352705](https://youtu.be/1mje6pAreFo?si=y6pj6dBcxsvK9CIR))</h3>
+
+###
 
 ## Funcionalidades
 
